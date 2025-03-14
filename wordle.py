@@ -1,0 +1,24 @@
+wordlefive=["apple","brave","crisp","drown","eagle","flame","grasp","haste","ivory","jolly",
+            "knack","latch","mirth","noble","ocean","peace","quilt","risky","sunny","tulip",
+            "umbra","vivid","waltz","xenon","yearn","zebra","amber","blend","charm","daisy",
+            "elbow","frost","glove","honey","inlet","jumbo","koala","lunar","mango","novel",
+            "orbit","plumb","quirk","raven","sworn","tempo","unite","verge","whisk","youth"]
+wordlesix=["banana","cashew","dazzle","effort","frozen","guitar","honest","injury","jigsaw",
+           "kernel","laptop","mystic","nectar","object","puzzle","quaint","rescue","shadow",
+           "timber","uplift","violet","wander","xenial","yearly","zigzag","anchor","bishop",
+           "cradle","doodle","embark","fierce","gravel","harbor","influx","juggle","knight",
+           "legacy","mantis","novice","oracle","pastel","quiver","remedy","safari","tundra",
+           "unveil","voyage","wraith","xylome","zephyr"]
+wordleseven=["achieve","breathe","capture","delight","embrace","fortune","glacier","harmony",
+             "insight","journey","kindred","lantern","miracle","network","observe","pioneer",
+             "quarter","rejoice","shelter","treacle","upstage","venture","whisper","xylitol",
+             "yonder","zealots","absolve","brisket","compass","dynamic","elastic","fanfare",
+             "garment","heather","incisor","justice","kneecap","luggage","morning","notable",
+             "outcome","precise","quaintly","resolve","sincere","topiary","unfolds","vintage",
+             "warrior","zigzags"]
+wordleeight=["absolute","backfire","charcoal","delicate","epitome","flourish","guardian","headline",
+             "illusion","junction","kilogram","landmark","manifold","neurosis","observer","paradigm",
+             "question","reliance","sanctify","tangible","umbrella","vacation","woodland","xylotomy",
+             "yearling","zeppelin","alchemy","backbone","crescent","dedicate","elephant","festival",
+             "gaslight","highland","instance","jubilant","knotting","lonesome","maritime","notebook",
+             "outreach","profound","quixotic","rosemary","serenity","terrible","underway","vengeful","wildfire","zodiacal"]
